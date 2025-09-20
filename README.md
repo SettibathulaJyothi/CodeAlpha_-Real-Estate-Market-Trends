@@ -31,6 +31,4 @@ Format: CSV files containing housing metrics across U.S. states and cities
 ## 📜 Outcome
 This dashboard empowers investors, analysts, and policymakers to make data-driven decisions by uncovering key trends in the real estate market.
 
----
 
-Feel free to fork, explore, and contribute!
