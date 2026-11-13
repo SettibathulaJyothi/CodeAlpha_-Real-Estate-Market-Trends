@@ -1,4 +1,4 @@
-# RealEstate MarketTrends Dashboard
+# Real Estate MarketTrends Dashboard
 
 This repository showcases my Power BI dashboard project developed during the CodeAlpha internship, focused on analyzing real estate market trends using publicly available housing data.
 
